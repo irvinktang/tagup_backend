@@ -9,7 +9,7 @@ curl https://backend-tagup.herokuapp.com/api/list/
 ```
 ### Getting a single record
 ```
-https://backend-tagup.herokuapp.com/api/read/:id
+curl https://backend-tagup.herokuapp.com/api/read/:id
 ```
 ### Creating a new record
 ```
